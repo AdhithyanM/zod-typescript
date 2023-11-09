@@ -1,0 +1,26 @@
+{
+  "name": "zod-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhithyanM/zod-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhithyanM/zod-typescript/issues"
+  },
+  "homepage": "https://github.com/AdhithyanM/zod-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
