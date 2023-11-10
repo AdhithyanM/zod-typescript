@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
-    "target": "ES6", // or a specific ES version like "es2020"
+    "target": "ES6",
     "module": "NodeNext", // use ES6 modules
-    "outDir": "dist", // where to output compiled JS files
-    "moduleResolution": "NodeNext", // module resolution strategy
-    "strict": true // enable all strict type-checking options
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "moduleResolution": "NodeNext",
+    "strict": true
   },
   "include": ["src/**/*"]
 }

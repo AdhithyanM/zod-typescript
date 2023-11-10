@@ -1,0 +1,8 @@
+import "./basics/01-zod-intro.js";
+
+import express from "express";
+
+const app = express();
+const port = 3000;
+
+app.listen(port);
